@@ -1,4 +1,4 @@
-#Livro de receitas
-## Ola, bem-vidoao livro de receitas
+# Livro de receitas
+## Ola, bem-vido ao livro de receitas
  -  strogonoff
  
